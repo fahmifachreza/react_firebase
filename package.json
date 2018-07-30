@@ -1,0 +1,26 @@
+{
+  "name": "image-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/storage": "^1.7.0",
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
+    "firebase": "^5.3.0",
+    "firebase-functions": "^2.0.2",
+    "jest": "^23.4.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "uglifyjs": "^2.4.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
